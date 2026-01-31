@@ -1,0 +1,18 @@
+Unlicense (hay The Unlicense) 
+Là một giấy phép phần mềm tự do dựa trên nền tảng miền công cộng (public domain). Nó được thiết kế để gỡ bỏ mọi rào cản bản quyền đối với các tác phẩm sáng tạo, cho phép bất kỳ ai cũng có thể sử dụng, sao chép, sửa đổi và phân phối phần mềm cho bất kỳ mục đích nào mà không cần điều kiện.
+Đặc điểm chính của Unlicense:
+Từ bỏ bản quyền: Tác giả tuyên bố từ bỏ mọi quyền lợi liên quan đến bản quyền (copyright) trên toàn thế giới.
+Tự do tối đa: Người dùng có thể sử dụng mã nguồn trong các dự án thương mại hoặc đóng (proprietary) mà không cần phải ghi công (attribution) cho tác giả gốc (khác với các giấy phép như MIT hay BSD).
+Tuyên bố miễn trừ trách nhiệm: Giống như hầu hết các giấy phép phần mềm, Unlicense bao gồm các điều khoản bảo vệ tác giả khỏi mọi trách nhiệm pháp lý nếu phần mềm gặp lỗi hoặc gây thiệt hại.
+Khi nào nên sử dụng?
+Unlicense thường được chọn bởi những người phát triển muốn mã nguồn của mình trở thành "tài sản chung" của nhân loại một cách đơn giản nhất. Nó đặc biệt phổ biến cho:
+Các đoạn mã ví dụ (code snippets) hoặc hướng dẫn (tutorials).
+Các dự án nhỏ, thư viện tiện ích mà tác giả không quan tâm đến việc được ghi danh.
+Những người muốn ủng hộ phong trào "Anti-copyright".
+So sánh với các giấy phép khác:
+So với MIT: Giấy phép MIT yêu cầu bạn phải giữ lại thông báo bản quyền và thông báo cấp phép. Unlicense thì không yêu cầu gì cả.
+So với CC0 (Creative Commons Zero): Cả hai đều nhằm mục đích đưa tác phẩm vào miền công cộng. Tuy nhiên, Unlicense được viết cụ thể cho phần mềm và mã nguồn, trong khi CC0 mang tính tổng quát hơn cho mọi loại hình sáng tạo.
+Nội dung mẫu của file LICENSE:
+Một file Unlicense tiêu chuẩn thường bắt đầu bằng dòng chữ:
+This is free and unencumbered software released into the public domain.
+Bạn có thể tìm hiểu thêm chi tiết và cách áp dụng tại trang web chính thức unlicense.org.
